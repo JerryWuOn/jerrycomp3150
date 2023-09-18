@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jerrycomp3150/static/css/main.d8e9feab.css",
+    "main.js": "/jerrycomp3150/static/js/main.73e9d326.js",
+    "index.html": "/jerrycomp3150/index.html",
+    "main.d8e9feab.css.map": "/jerrycomp3150/static/css/main.d8e9feab.css.map",
+    "main.73e9d326.js.map": "/jerrycomp3150/static/js/main.73e9d326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8e9feab.css",
+    "static/js/main.73e9d326.js"
+  ]
+}

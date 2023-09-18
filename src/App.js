@@ -50,16 +50,16 @@ function Avatar(item) {
         <div className="profile-img">
           <img src={item.image} alt="" />
         </div>
-        <div>
+        <div className="header-container">
           <a className="header" href={item.link} target="_blank">
             <p>{item.header}</p>
           </a>
           <p className="profile">By:{item.name}</p>
         </div>
+        <span className="button-class">
+           <button className="delete-button" onClick={handleDelete}>X</button>
+        </span>
       </div>
-      <button className="delete-button" onClick={handleDelete}>
-        Delete
-      </button>
       <div className="information">
         <p> {item.information}</p>
       </div>
