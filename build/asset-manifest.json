@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/jerrycomp3150/static/css/main.d8e9feab.css",
-    "main.js": "/jerrycomp3150/static/js/main.73e9d326.js",
+    "main.css": "/jerrycomp3150/static/css/main.2676b7a4.css",
+    "main.js": "/jerrycomp3150/static/js/main.21f88d54.js",
+    "static/media/spaghetti.jpeg": "/jerrycomp3150/static/media/spaghetti.77835c3a58e33dd7cf13.jpeg",
+    "static/media/turtle.jpeg": "/jerrycomp3150/static/media/turtle.96c6defb21be16717d2a.jpeg",
+    "static/media/penguin.jpg": "/jerrycomp3150/static/media/penguin.9998d3ff03690f58bfa2.jpg",
     "index.html": "/jerrycomp3150/index.html",
-    "main.d8e9feab.css.map": "/jerrycomp3150/static/css/main.d8e9feab.css.map",
-    "main.73e9d326.js.map": "/jerrycomp3150/static/js/main.73e9d326.js.map"
+    "main.2676b7a4.css.map": "/jerrycomp3150/static/css/main.2676b7a4.css.map",
+    "main.21f88d54.js.map": "/jerrycomp3150/static/js/main.21f88d54.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8e9feab.css",
-    "static/js/main.73e9d326.js"
+    "static/css/main.2676b7a4.css",
+    "static/js/main.21f88d54.js"
   ]
 }
